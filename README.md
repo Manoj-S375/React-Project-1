@@ -1,6 +1,6 @@
 # React-Project-1
-To start server:
-npm install
+To start server run the following commands:
+npm install,
 npm run start
 
 For successful running of server:
