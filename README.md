@@ -3,6 +3,8 @@ Make sure you have the neccessary node_modules for both the server and applicati
 
 
 To start server run the following commands:
+
+
 npm install
 
 
